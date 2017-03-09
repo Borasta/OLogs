@@ -1,0 +1,5 @@
+
+--- Impresion del log a fecha: 09/03/2017 16:29:08 ---
+
+09/03/2017 16:29:08 - Info  : Info
+09/03/2017 16:29:08 - Error : Error
